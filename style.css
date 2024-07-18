@@ -203,7 +203,7 @@ span.logo{
     width: 80%;
     /* border: 2px solid black; */
     margin: auto;
-    color: #FFF;
+    color:black;
     /* text-align: center; */
 }
 .about p{
@@ -244,7 +244,7 @@ span.logo{
 }
 .bio p span{
     font-weight: 400;
-    color: #FFF;
+    color:black;
 
 }
 .bio1,.val1{
@@ -266,7 +266,7 @@ span.logo{
     width: 40%;
     /* border: 2px solid black; */
     margin: auto;
-    color: #FFF; 
+    color:black; 
 
     
 }
