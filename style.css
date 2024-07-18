@@ -389,7 +389,7 @@ img{
 .video-block video{
     width:100%;
    height: 60vh;
-       border: 2px solid white;
+       /* border: 2px solid white; */
     margin: auto;
 
 }
