@@ -377,7 +377,7 @@ img{
 }
 .video-block{
     width: 60%;
-    border: 3px solid black;
+    /* border: 3px solid black; */
    display: grid;
    margin: auto;
    grid-template-columns: auto auto auto;
@@ -389,7 +389,7 @@ img{
 .video-block video{
     width:100%;
    height: 60vh;
-       /* border: 2px solid white; */
+       border: 2px solid black;
     margin: auto;
 
 }
