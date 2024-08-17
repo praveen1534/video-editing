@@ -12,7 +12,7 @@ let typed=new Typed('.speedtyping',{
     var reveals =document.querySelectorAll('.reveals')
     for(var i=0;i<reveals.length;i++){
         var windowhight = window.innerHeight;
-        var revealtop = reveals[i].getBoundingClientRect().top;
+        var revealtop = reveals[i].getBoundingClientRect().left;
         var revealpoint=150;
 
         if(revealtop <windowhight-revealpoint){
